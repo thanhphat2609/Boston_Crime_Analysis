@@ -20,6 +20,8 @@ cd source
 ## Data Warehouse in Lakehouse of Microsoft Fabric
 ![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/53c538d7-7944-4079-b388-53e513c5b27a)
 
+## Semantic Model
+
 ## Boston Crime Report with Power BI
 
 ## Pipeline of Machine Learning
