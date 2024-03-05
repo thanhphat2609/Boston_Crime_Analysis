@@ -15,7 +15,7 @@ cd source
 ![Fabric_Architect](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/af1f1c7e-cc73-40bf-b4de-baedc16365b4)
 
 ## Data Model
-![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/3e3b71e1-9b92-4cf5-a70d-f31cbb849998)
+![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/4127767c-4224-4819-84bc-13709916bebc)
 
 ## Data Warehouse in Microsoft Fabric
 
