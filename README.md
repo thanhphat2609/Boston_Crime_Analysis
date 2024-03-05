@@ -1,6 +1,6 @@
 # Boston Crime Analysis using Microsoft Fabric
 
-This is a project that I use Microsoft Fabric (All in one) for ETL the dataset from KaggleApi and after ETL I create Data Warehouse and show the Report of Boston Crime.
+This is a project that I use Microsoft Fabric (All in one) for ETL the dataset from KaggleApi. After ETL I create Data Warehouse and show the Report of Boston Crime.
 
 ## Installation
 
