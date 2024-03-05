@@ -27,6 +27,7 @@ Basically, this architecture base on the architecture from my previous work on H
 ![SemanticModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/bc8582aa-bfe7-438f-9bde-27c3254adcae)
 
 ## Boston Crime Report with Power BI
+![Boston_Crime_Report](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/f974474c-52fc-4c6d-9f77-609df386e923)
 
 ## Pipeline of Machine Learning
 
