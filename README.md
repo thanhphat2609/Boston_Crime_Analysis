@@ -18,9 +18,11 @@ cd source
 ![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/4127767c-4224-4819-84bc-13709916bebc)
 
 ## Data Warehouse in Lakehouse of Microsoft Fabric
-![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/53c538d7-7944-4079-b388-53e513c5b27a)
+![DataWarehousel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/53c538d7-7944-4079-b388-53e513c5b27a)
 
 ## Semantic Model
+![SemanticModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/bc8582aa-bfe7-438f-9bde-27c3254adcae)
+
 
 ## Boston Crime Report with Power BI
 
