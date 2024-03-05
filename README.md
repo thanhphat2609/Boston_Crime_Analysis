@@ -12,7 +12,9 @@ cd source
 ```
 
 ## Architecture
+```
 Basically, this architecture base on the architecture from my previous work on Hadoop and applied it to Fabric with a more streamlined and powerful structure.
+```
 ![Fabric_Architect](https://github.com/thanhphat2609/Uber_Analytics/assets/84914537/af1f1c7e-cc73-40bf-b4de-baedc16365b4)
 
 ## Data Model
