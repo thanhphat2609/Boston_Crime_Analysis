@@ -17,9 +17,9 @@ cd source
 ## Data Model
 ![DataModel](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/3076ea0f-d880-42db-8510-300a06d7e796)
 
-## Data Warehouse
+## Data Warehouse in Microsoft Fabric
 
-## Boston Crime Report
+## Boston Crime Report with Power BI
 
 ## Pipeline of Machine Learning
 
