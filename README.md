@@ -30,7 +30,7 @@ Basically, this architecture base on the architecture from my previous work on H
 ![video_report](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/a349362f-f16e-4649-b37f-5356da7c4837)
 
 ## Pipeline of Machine Learning
-![pipeline_model](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/f8dd75b8-29a1-4fc4-8982-b745926d4ae6)
+![pipeline_model](https://github.com/thanhphat2609/Boston_Crime_Analysis/assets/84914537/04268bbc-45e4-48f0-8e64-a24ed6b8d1a9)
 
 ## File Structure
 
